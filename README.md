@@ -154,12 +154,12 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 ---
 
 ## 🚀 Let’s Create Something Extraordinary!
-## 🚀 Let’s Create Something Extraordinary!
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=34D5C9&width=1000&lines=I%E2%80%99m+always+open+to+collaborating!" alt="Collaborate Message Part 1" />
+  <strong style="font-size: 32px; color: #34D5C9;">I’m always open to collaborating!</strong>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=34D5C9&width=1000&lines=Reach+out+and+let%E2%80%99s+build+something+amazing!" alt="Collaborate Message Part 2" />
+  <strong style="font-size: 32px; color: #34D5C9;">Reach out and let’s build something amazing!</strong>
 </p>
 
 <p align="center">
