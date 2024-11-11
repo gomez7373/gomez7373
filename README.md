@@ -1,5 +1,3 @@
----
-
 # 👋 Hey, World! I'm @gomez7373
 
 <p align="center">
@@ -24,7 +22,6 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 - Advanced **JavaScript frameworks** and full-stack development 💻
 - Creative and immersive **AR/VR** technologies for my future specialization 🌐
 - Enhancing my design skills for **cutting-edge user experiences** 🎨
-- and more...
 
 ### 🤝 Looking to Collaborate On
 - **Innovative projects** that merge art and technology
@@ -34,27 +31,31 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 ---
 
 ### 📫 Connect With Me
-- ✉️ **Email**: soon :
+- ✉️ **Email**: gomez7373@example.com
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/gomez7373)**
 
 ---
 
-### 📊 My Artistic 🎨 Contribution Graph 📈 
+### 📊 My Comprehensive Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomez7373&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomez7373&theme=radical&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gomez7373&theme=onestar&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=gomez7373&theme=redical" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gomez7373&theme=onestar&margin-w=15&margin-h=15&no-frame=true&count_private=true" alt="Trophies" />
 </p>
 
 ---
 
-### ⚡ Fun Fact "favorite quote":
+### ⚡ Fun Fact
 > “I am neither especially clever nor especially gifted. I am only very, very curious.”  
 > — Albert Einstein
 
@@ -70,6 +71,3 @@ I’m always open to collaborating, learning, and building solutions that make a
 <p align="center">
   ✨ *Thank you for visiting my profile! Let's turn curiosity into innovation.* ✨
 </p>
-
-
----
