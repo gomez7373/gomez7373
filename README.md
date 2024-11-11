@@ -152,31 +152,24 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 </p>
 
 ---
+## 🚀 Let’s Create Something Extraordinary!
 
-## 🚀 Let’s Create Something ## 🚀 Let’s Create Something Extraordinary!
+<div align="center" style="font-size: 32px; color: #34D5C9;">
+  ✨🌟 <strong>Collaborate, Innovate, Create!</strong> 🌟✨
+</div>
+
+<div align="center" style="font-size: 28px; color: #34D5C9;">
+  🤝 I’m always excited to take on new challenges and projects. 🤝
+</div>
+
+<div align="center" style="font-size: 28px; color: #34D5C9;">
+  🔧 Let’s build something amazing together! 🔧
+</div>
 
 <p align="center">
-  <img src="https://your-repo-link/dynamicText.svg" alt="Growing Text Effect" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Creative Collaboration GIF" width="400" />
 </p>
-<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="1" fill="#34D5C9" id="dynamicText">
-    Let’s Create Something Extraordinary!
-  </text>
-  <style>
-    #dynamicText {
-      animation: growText 3s forwards;
-    }
 
-    @keyframes growText {
-      0% {
-        font-size: 10px;
-      }
-      100% {
-        font-size: 48px;
-      }
-    }
-  </style>
-</svg>
 
 <p align="center">
   <!-- Placeholder for Collaboration GIF -->
