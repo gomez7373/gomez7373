@@ -36,7 +36,7 @@ Hi! I’m a blend of technology and art, finding joy in crafting applications th
 - 📚 Aiming to complete my **AR/VR specialization** in 2025
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKGMzGYfRPh1Zhu/giphy.gif" alt="Graduation Animation" width="400" />
+  <!-- Placeholder for Education GIF -->
 </p>
 
 ---
@@ -45,7 +45,7 @@ Hi! I’m a blend of technology and art, finding joy in crafting applications th
 I'm a proud **Christian believer**, and my faith shapes my approach to life, work, and relationships. It inspires me to create with integrity and a vision of hope.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGn8As3z5d8P4FW/giphy.gif" alt="Faith Animation" width="400" />
+  <!-- Placeholder for Faith GIF -->
 </p>
 
 ---
@@ -56,7 +56,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 - Continuously upgrading my knowledge and expertise in the **languages and tools** I’ve previously used, ensuring I stay sharp and innovative in my approach to software engineering 🎨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Learning Animation" width="400" />
+  <!-- Placeholder for Learning GIF -->
 </p>
 
 ---
@@ -67,7 +67,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 - **Creative tools** that bring new experiences to users
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" alt="Collaboration Animation" width="400" />
+  <!-- Placeholder for Collaboration GIF -->
 </p>
 
 ---
@@ -78,7 +78,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Tools Animation" width="400" />
+  <!-- Placeholder for Tools GIF -->
 </p>
 
 ---
@@ -94,7 +94,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" alt="Connect Animation" width="400" />
+  <!-- Placeholder for Connect GIF -->
 </p>
 
 ---
@@ -109,7 +109,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Contribution Animation" width="400" />
+  <!-- Placeholder for Contribution GIF -->
 </p>
 
 ---
@@ -119,7 +119,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 - Balancing software engineering with creativity to build applications that make a difference.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Key Highlights Animation" width="400" />
+  <!-- Placeholder for Key Highlights GIF -->
 </p>
 
 ---
@@ -128,7 +128,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 I started studying architecture to bring art and design to life in 3D spaces. Now, as a software engineering graduate, I’m still building—just with code. Whether it's creating digital art or crafting applications, my passion for art and design continues to shape everything I do.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6MbrQ2g2tulP6gGk/giphy.gif" alt="Fun Fact Animation" width="400" />
+  <!-- Placeholder for Fun Fact GIF -->
 </p>
 
 ---
@@ -138,7 +138,7 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 > — Albert Einstein
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1oJRBMVKMZgLbo5i/giphy.gif" alt="Quote Animation" width="400" />
+  <!-- Placeholder for Quote GIF -->
 </p>
 
 ---
@@ -149,7 +149,7 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" alt="Collaboration Animation" width="400" />
+  <!-- Placeholder for Collaboration GIF -->
 </p>
 
 ---
@@ -159,5 +159,5 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Thank You Animation" width="400" />
+  <!-- Placeholder for Thank You GIF -->
 </p>
