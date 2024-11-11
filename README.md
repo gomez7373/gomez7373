@@ -103,11 +103,19 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ## 📊 My Contribution Highlights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomez7373&theme=radical" alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomez7373&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Streak" />
+  <!-- Repository Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomez7373&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomez7373&theme=radical" alt="Most Used Language" />
+</p>
+
+<p align="center">
+  <!-- Contributions Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomez7373&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
