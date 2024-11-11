@@ -31,12 +31,11 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 ---
 
 ### 📫 Connect With Me
-- ✉️ **Email**: gomez7373@example.com
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/gomez7373)**
+- ✉️ **Email**: Se.gomez.sheila@gmail.com
 
 ---
 
-### 📊 My Comprehensive Contribution # 📊 My Comprehensive Contribution Graph
+### 📊 My Contribution Graph 📊 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
