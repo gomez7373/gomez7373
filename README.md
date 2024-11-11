@@ -167,7 +167,7 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Creative Collaboration GIF" width="400" />
+  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Collaboration GIF" width="500" />
 </p>
 
 
