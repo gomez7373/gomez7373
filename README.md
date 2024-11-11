@@ -36,17 +36,18 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ---
 
-### 📊 My Comprehensive Contribution Graph
+### 📊 My Comprehensive Contribution # 📊 My Comprehensive Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomez7373&theme=radical&include_all_commits=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomez7373&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gomez7373&theme=redical" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=gomez7373&theme=redical&count_private=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
