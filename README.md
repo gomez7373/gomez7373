@@ -35,8 +35,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ---
 
-### 📊 My Contribution Graph 📊 
-
+### 📊 My Contribution Showcase
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
@@ -52,6 +51,10 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gomez7373&theme=onestar&margin-w=15&margin-h=15&no-frame=true&count_private=true" alt="Trophies" />
 </p>
+
+### 🔧 Key Highlights
+- **Over 2,000 contributions** in 2023 and **more than 2,300 contributions** in 2024, demonstrating consistent dedication and active involvement.
+- Multiple collaborative projects showcasing teamwork, problem-solving, and innovative development.
 
 ---
 
