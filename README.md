@@ -153,20 +153,24 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 
 ---
 
-## 🚀Let’s Create Together!
+---
+
+## 🚀 Let’s Create Something Extraordinary!
 
 <div align="center" style="font-size: 36px; color: #34D5C9; margin-bottom: 20px;">
-  ✨🌟 <strong>Collaborate, Innovate, Create!</strong> 🌟✨
+  ✨🌟 <strong>Collaborate,</strong> 🌟✨<br>
+  ✨🌟 <strong>Innovate,</strong> 🌟✨<br>
+  ✨🌟 <strong>Create!</strong> 🌟✨
 </div>
 
 <div align="center" style="font-size: 28px; color: #34D5C9; margin-bottom: 20px;">
- 😃 I’m always excited  😃
- 🌟 to take on new 🌟 
- 🤝 challenges and projects. 🤝
+  😃 <strong>I’m always excited</strong> 😃<br>
+  🌟 <strong>to take on new</strong> 🌟<br>
+  🤝 <strong>challenges and projects.</strong> 🤝
 </div>
 
 <div align="center" style="font-size: 28px; color: #34D5C9; margin-bottom: 20px;">
-  🔧 Let’s build something amazing! 🔧
+  🔧 <strong>Let’s build something amazing!</strong> 🔧
 </div>
 
 <p align="center">
