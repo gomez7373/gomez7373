@@ -24,7 +24,7 @@
 
 ---
 
-### 🖌️ About Me
+## 🖌️ About Me
 Hi! I’m a blend of technology and art, finding joy in crafting applications that don't just work well but look great too. My passion extends from building full-stack apps to creating digital art and logos using Procreate. I love exploring new areas of development, including health and well-being apps, where creativity meets functionality.
 
 <p align="center">
