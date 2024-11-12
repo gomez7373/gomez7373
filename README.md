@@ -109,8 +109,8 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 <p align="center">
   <!-- Repository Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomez7373&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomez7373&theme=radical" alt="Most Used Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomez7373&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomez7373&theme=radical" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
