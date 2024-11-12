@@ -152,24 +152,24 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 </p>
 
 ---
+
 ## 🚀 Let’s Create Something Extraordinary!
 
-<div align="center" style="font-size: 32px; color: #34D5C9;">
+<div align="center" style="font-size: 36px; color: #34D5C9; margin-bottom: 20px;">
   ✨🌟 <strong>Collaborate, Innovate, Create!</strong> 🌟✨
 </div>
 
-<div align="center" style="font-size: 28px; color: #34D5C9;">
+<div align="center" style="font-size: 28px; color: #34D5C9; margin-bottom: 20px;">
   🤝 I’m always excited to take on new challenges and projects. 🤝
 </div>
 
-<div align="center" style="font-size: 28px; color: #34D5C9;">
+<div align="center" style="font-size: 28px; color: #34D5C9; margin-bottom: 20px;">
   🔧 Let’s build something amazing together! 🔧
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Collaboration GIF" width="500" />
+  <img src="https://media3.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif?cid=6c09b9520w9ib28r9r8rcdc6qhzzthzh0ecp9gp8umjkipx7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Collaboration Programming GIF" width="600" />
 </p>
-
 
 <p align="center">
   <!-- Placeholder for Collaboration GIF -->
