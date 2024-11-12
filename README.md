@@ -101,22 +101,25 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ---
 
-## 📊 My Contribution Highlights
+## 📊 My Contribution Highlights for MotionMinds
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomez7373&theme=radical" alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
-  <!-- Repository Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomez7373&theme=radical" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomez7373&theme=radical" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <!-- Contributions Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomez7373&theme=radical" alt="Profile Details" />
 </p>
+
+### 🚀 Technologies Used in MotionMinds:
+- **HTML**: Structured content and page layouts.
+- **CSS**: Styling for responsive and aesthetic design.
+- **JavaScript**: Interactive elements and application logic.
+- **React**: Component-based architecture for a dynamic single-page application (SPA).
 
 <p align="center">
   <!-- Placeholder for Contribution GIF -->
