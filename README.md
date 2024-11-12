@@ -115,7 +115,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomez7373&theme=radical" alt="Profile Details" />
 </p>
 
-### 🚀 Technologies Used in MotionMinds:
+### 🚀 Technologies I Used in MotionMinds:
 - **HTML**: Structured content and page layouts.
 - **CSS**: Styling for responsive and aesthetic design.
 - **JavaScript**: Interactive elements and application logic.
