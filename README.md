@@ -211,3 +211,8 @@ I started studying architecture to bring art and design to life in 3D spaces. No
     </a>
   </div>
 </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sheilagomezcubero">
+    <img src="assets/sheila_gomez_cubero.jpg" alt="Sheila Gómez Cubero" width="200" style="border-radius:50%;">
+  </a>
+</p>
