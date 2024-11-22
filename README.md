@@ -193,26 +193,11 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 
 <p align="center">
   <!-- Placeholder for Thank You GIF -->
-  
+<p align="center">
+  LinkedIn:
 </p>
-<div style="text-align: center;">
-  <p>
-    LinkedIn:
-  </p>
-  <div class="badge-base LI-profile-badge" 
-       data-locale="en_US" 
-       data-size="medium" 
-       data-theme="dark" 
-       data-type="HORIZONTAL" 
-       data-vanity="sheila-gómez-cubero-00ab81113" 
-       data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://pr.linkedin.com/in/sheila-g%C3%B3mez-cubero-00ab81113?trk=profile-badge">
-      Sheila Gómez Cubero
-    </a>
-  </div>
-</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/sheilagomezcubero">
-    <img src="assets/sheila_gomez_cubero.jpg" alt="Sheila Gómez Cubero" width="200" style="border-radius:50%;">
+    <img src="assets/sheila_gomez_cubero.jpg" alt="Sheila Gómez Cubero" width="200">
   </a>
-</p>
+</p>  
