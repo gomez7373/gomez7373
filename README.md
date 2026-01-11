@@ -103,15 +103,11 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 ## 📊 My Development Activity & Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomez7373&layout=compact&theme=radical&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomez7373&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomez7373&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 ---
 ### 🚀 Technologies I Used in MotionMinds:
