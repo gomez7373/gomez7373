@@ -1,9 +1,9 @@
 name: Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 6 * * *"   # runs daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
 
 permissions:
   contents: write
@@ -17,10 +17,7 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           USERNAME: gomez7373
-          THEME: radical
-          OUTPUT_DIR: profile-summary-card-output
 
       - name: Commit and push generated cards
         run: |
