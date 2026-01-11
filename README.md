@@ -100,21 +100,19 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 </p>
 
 ---
+## 📊 My Development Activity & Tech Stack
 
-## 📊 My Contribution Highlights for MotionMinds
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gomez7373&theme=radical" alt="GitHub Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomez7373&layout=compact&theme=radical&langs_count=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomez7373&theme=radical" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomez7373&theme=radical" alt="Top Languages by Commit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomez7373&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomez7373&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gomez7373&theme=radical" />
 </p>
-
 ---
 ### 🚀 Technologies I Used in MotionMinds:
 - **HTML**: Structured content and page layouts.
