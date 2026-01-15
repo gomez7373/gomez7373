@@ -62,7 +62,9 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 - Continuously upgrading my knowledge and expertise in the **languages and tools** I’ve previously used, ensuring I stay sharp and innovative in my approach to software engineering 🎨
 
 <p align="center">
-  <!-- Placeholder for Learning GIF -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2M4cXd4Ymk1NXBrczR6NGtpdDN6MGVxdm9mYzlmNnNoZDlrN2VlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"
+       alt="What I'm Currently Learning GIF"
+       width="500" />
 </p>
 
 ---
