@@ -18,7 +18,7 @@
 - [Connect With Me](#-connect-with-me)
 - [Contribution Highlights](#-my-contribution-highlights)
 - [Key Highlights](#-key-highlights)
-- [Fun Fact](#-fun-fact)
+- [Where Art Meets Code](#-where-art-meets-code)
 - [Favorite Quote](#-favorite-quote)
 - [Let’s Collaborate](#-lets-create-something-extraordinary)
 
