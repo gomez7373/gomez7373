@@ -143,7 +143,9 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 I started studying architecture to bring art and design to life in 3D spaces. Now, as a software engineering graduate, I’m still building—just with code. Whether it's creating digital art or crafting applications, my passion for art and design continues to shape everything I do.
 
 <p align="center">
-  <!-- Placeholder for Fun Fact GIF -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2NwMzZoOTIwNjYzaWszYWtvanpobjBoeGYybmR1bDl0czVkMTloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogsjQvoi63d8PxuUg/giphy.gif"
+       alt="Tools and Languages GIF"
+       width="500" />
 </p>
 
 ---
