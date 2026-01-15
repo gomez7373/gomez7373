@@ -1,6 +1,7 @@
-# 👋 Hello!, World! 👋
+<p align="center"> # 👋 Hello!, World! 👋
 
 ##  ♡ I'm Sheila Gomez! ♡👩🏻‍💻 
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=34D5C9&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Passionate+Software+Engineer;Artistic+Creator;Lifelong+Learner+%26+Innovator" alt="Typing SVG" />
