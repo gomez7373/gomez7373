@@ -145,7 +145,7 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2NwMzZoOTIwNjYzaWszYWtvanpobjBoeGYybmR1bDl0czVkMTloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ogsjQvoi63d8PxuUg/giphy.gif"
        alt="Tools and Languages GIF"
-       width="500" />
+       width="300" />
 </p>
 
 ---
