@@ -91,6 +91,10 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 </p>
 
 ---
+🐍 
+![snake](https://raw.githubusercontent.com/gomez7373/gomez7373/output/snake.svg)
+
+---
 
 ## ⚙️ Tools and Languages I've Used
 <p align="center">
