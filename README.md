@@ -128,7 +128,8 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ---
 
-## 🤩 Fun Fact
+## 🧠 Where Art Meets Code
+
 I started studying architecture to bring art and design to life in 3D spaces. Now, as a software engineering graduate, I’m still building—just with code. Whether it's creating digital art or crafting applications, my passion for art and design continues to shape everything I do.
 
 <p align="center">
