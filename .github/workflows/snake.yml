@@ -13,7 +13,10 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gomez7373
-          outputs: dist/snake.svg
+          theme: dark
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
