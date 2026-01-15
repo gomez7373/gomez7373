@@ -51,7 +51,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybzNocWUwbmJzNXd5Ymc0ZmY0c2tmZzk3d2p3Y2poY3NpYnJtcGQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67qZ19ZRioDxKGcWxJ/giphy.gif"
        alt="Faith - Beautiful animated Christian GIF"
-       width="350" />
+       width="250" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2M4cXd4Ymk1NXBrczR6NGtpdDN6MGVxdm9mYzlmNnNoZDlrN2VlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"
        alt="What I'm Currently Learning GIF"
-       width="500" />
+       width="300" />
 </p>
 
 ---
