@@ -91,7 +91,8 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 </p>
 
 ---
-🐍 
+## 🐍 Feeding the Snake
+
 ![snake](https://raw.githubusercontent.com/gomez7373/gomez7373/output/snake.svg)
 
 ---
