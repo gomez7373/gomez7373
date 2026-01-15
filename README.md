@@ -1,6 +1,6 @@
-<p align="center"> # 👋 Hello!, World! 👋
-
-##  ♡ I'm Sheila Gomez! ♡👩🏻‍💻 
+<p align="center">
+# 👋 Hello!, World! 👋
+# ♡ I'm Sheila Gomez! ♡👩🏻‍💻 
 </p>
 
 <p align="center">
