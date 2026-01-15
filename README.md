@@ -54,7 +54,7 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 ## 🌱 What I’m Currently Learning
 - Advanced **JavaScript frameworks**, including **React**, to enhance front-end development 💻
-- **C#** for AR/VR development as I work toward my 2025 specialization 🌐
+- **C#** for AR/VR development 🌐
 - Continuously upgrading my knowledge and expertise in the **languages and tools** I’ve previously used, ensuring I stay sharp and innovative in my approach to software engineering 🎨
 
 <p align="center">
@@ -70,6 +70,23 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 
 <p align="center">
   <!-- Placeholder for Collaboration GIF -->
+</p>
+
+---
+## 📊 My Contribution Highlights 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/main/profile-summary-card-output/jolly/4-productive-time.svg" />
 </p>
 
 ---
