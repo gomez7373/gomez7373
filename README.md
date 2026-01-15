@@ -16,7 +16,7 @@
 - [Collaborative Interests](#-looking-to-collaborate-on)
 - [Tools and Languages](#%EF%B8%8F-tools-and-languages-ive-used)
 - [Connect With Me](#-connect-with-me)
-- [Contribution Highlights](#-my-contribution-highlights)
+- [My Contribution Highlights](#-my-contribution-highlights)
 - [Key Highlights](#-key-highlights)
 - [Where Art Meets Code](#-where-art-meets-code)
 - [Favorite Quote](#-favorite-quote)
