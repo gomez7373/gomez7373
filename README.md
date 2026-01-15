@@ -92,8 +92,6 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
 ---
 
 ## ⚙️ Tools and Languages I've Used
-
-## ⚙️ Tools and Languages I've Used
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,c,cs,react,nodejs,unity,git,github,docker,bash,linux,windows,vscode,vim" />
 </p>
@@ -118,23 +116,6 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
   <!-- Placeholder for Connect GIF -->
 </p>
 
----
-
-## 📊 Languages & Technologies Used Across My Repositories
-
-### 💻 Programming Languages
-![CSS](https://img.shields.io/badge/CSS-Used-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow?logo=javascript)
-![C%23](https://img.shields.io/badge/C%23-Used-purple?logo=csharp)
-![Python](https://img.shields.io/badge/Python-Used-blue?logo=python)
-![HTML](https://img.shields.io/badge/HTML-Used-orange?logo=html5)
-
-### 🧰 Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-Used-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Used-black?logo=github)
-![Unity](https://img.shields.io/badge/Unity-Used-black?logo=unity)
-![React](https://img.shields.io/badge/React-Used-blue?logo=react)
-![VS Code](https://img.shields.io/badge/VS_Code-Used-blue?logo=visualstudiocode)
 ---
 
 ## 🔧 Key Highlights
