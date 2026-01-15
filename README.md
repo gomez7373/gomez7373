@@ -35,7 +35,8 @@ Hi! I’m a blend of technology and art, finding joy in crafting applications th
 
 ## 🎓 Education
 - 🌟 Graduating from **Holberton Coding School Puerto Rico** 🇵🇷
-- 📚 Aiming to complete my **AR/VR specialization** in 2025
+- 📚 AR/VR development experience through hands-on Unity projects,
+- applying C# scripting, UI systems, and interactive design.
 
 <p align="center">
   <!-- Placeholder for Education GIF -->
