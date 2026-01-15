@@ -146,12 +146,6 @@ I started studying architecture to bring art and design to life in 3D spaces. No
 </p>
 
 ---
-## 📊 Languages Used Across My GitHub
-
-<p align="center">
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
-</p>
----
 
 ## 🚀 Let’s Create Something Extraordinary!
 
