@@ -101,13 +101,6 @@ I'm a proud **Christian believer**, and my faith shapes my approach to life, wor
   <!-- Placeholder for Tools GIF -->
 </p>
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gomez7373/gomez7373/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
-</p>
-
----
 
 ## 📫 Connect With Me
 <p align="center">
