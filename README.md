@@ -49,7 +49,9 @@ Hi! I’m a blend of technology and art, finding joy in crafting applications th
 I'm a proud **Christian believer**, and my faith shapes my approach to life, work, and relationships. It inspires me to create with integrity and a vision of hope.
 
 <p align="center">
-  <!-- Placeholder for Faith GIF -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybzNocWUwbmJzNXd5Ymc0ZmY0c2tmZzk3d2p3Y2poY3NpYnJtcGQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67qZ19ZRioDxKGcWxJ/giphy.gif"
+       alt="Faith - Beautiful animated Christian GIF"
+       width="450" />
 </p>
 
 ---
